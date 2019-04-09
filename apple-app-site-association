@@ -4,7 +4,11 @@
     "details": [
     {
       "appID": "7A4KZ3QNFF.isbankchoochpocapp",
-      "paths": ["*"]
+      "paths": ["/chooch"]
+    },
+    {
+      "appID": "7A4KZ3QNFF.com.isbank.linkhandler",
+      "paths": ["/linkhandler"]
     }
     ]
   }
